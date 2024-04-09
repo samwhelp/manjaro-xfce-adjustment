@@ -11,10 +11,22 @@
 ## ## Package / font
 ##
 
-fonts-dejavu
+ttf-dejavu
 
-fonts-noto-cjk
 
-fonts-liberation2
+ttf-ubuntu-font-family
+#ttf-ubuntu-nerd
+#ttf-ubuntu-mono-nerd
 
-#fonts-jetbrains-mono
+
+#noto-fonts
+noto-fonts-cjk
+#noto-fonts-emoji
+#noto-fonts-extra
+
+
+ttf-liberation
+#ttf-liberation-mono-nerd
+
+
+#ttf-jetbrains-mono

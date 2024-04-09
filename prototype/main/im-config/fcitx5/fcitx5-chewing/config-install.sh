@@ -41,12 +41,15 @@ fcitx5_service_start () {
 
 }
 
-
 im_config_apply_fcitx5 () {
 
-	if im-config -n fcitx5; then
-		return 0
-	fi
+	#echo
+	#echo "sudo mkdir -p /etc/profile.d"
+	#sudo mkdir -p "/etc/profile.d"
+
+	echo
+	echo "sudo install -Dm644 ./asset/overlay/etc/profile.d/input-method.sh/etc/profile.d/input-method.sh"
+	sudo install -Dm644 "./asset/overlay/etc/profile.d/input-method.sh" "/etc/profile.d/input-method.sh"
 
 
 	return 0

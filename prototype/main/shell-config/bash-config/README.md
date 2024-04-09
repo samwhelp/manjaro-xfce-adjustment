@@ -2,6 +2,13 @@
 # Bash
 
 
+## Arch Wiki
+
+* [Bash](https://wiki.archlinux.org/title/bash)
+
+
+
+
 ## Config File Path
 
 | Config File Path |
@@ -9,11 +16,15 @@
 | [~/.bashrc](./asset/overlay/etc/skel/.bashrc) |
 
 
-## Ubuntu Package
 
-| Ubuntu Package |
+
+## Arch Package
+
+| Arch Package |
 | --- |
-| [bash](https://packages.ubuntu.com/noble/bash) |
+| [bash](https://archlinux.org/packages/core/x86_64/bash/) |
+| [bash-completion](https://archlinux.org/packages/extra/any/bash-completion/) |
+
 
 
 
@@ -22,6 +33,8 @@
 | Link |
 | --- |
 | bashrc-enhance-prototype / [start](https://github.com/samwhelp/bashrc-enhance-prototype/tree/main/prototype/start/debian) |
+
+
 
 
 ## Usage
