@@ -21,7 +21,7 @@
 
 | Adjustment |
 | ---------- |
-| [Manjaro Xfce](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Manjaro Xfce](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main) |
 
 
 
