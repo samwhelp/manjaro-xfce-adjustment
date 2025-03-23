@@ -5,6 +5,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Manjaro Xfce Adjustment](https://samwhelp.github.io/manjaro-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-xfce-adjustment) |
+| [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
+| [Manjaro Xfce Note](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
+
+
+> [Keybind Cheatsheet](https://samwhelp.github.io/garuda-xfce-adjustment/read/cheatsheet/keybind.html)
 
 
 
