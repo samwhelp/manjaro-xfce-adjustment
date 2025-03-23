@@ -18,7 +18,7 @@ parent: Cheatsheet
 
 
 
-## Porject
+## Project
 
 | [hotkey-tips](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/project/gen/hotkey-tips) |
 | ----------- |
