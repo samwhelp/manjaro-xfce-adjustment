@@ -2,7 +2,7 @@
 
 yad --width=1000 --height=600 \
 --center \
---title="Garuda Kde Plasma 按鍵綁定" \
+--title="Manjaro Xfce 按鍵綁定" \
 --no-buttons \
 --list \
 --column=按鍵綁定: \

@@ -1,6 +1,6 @@
 
 
-# Garuda Kde Plasma Keybindings
+# Manjaro Xfce Keybindings
 
 
 ## Hotkey

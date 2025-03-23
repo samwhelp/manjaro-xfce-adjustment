@@ -2,7 +2,7 @@
 
 yad --width=1000 --height=600 \
 --center \
---title="Garuda Kde Plasma Keybindings" \
+--title="Manjaro Xfce Keybindings" \
 --no-buttons \
 --list \
 --column=Keybind: \

@@ -1,6 +1,6 @@
 
 
-# Garuda Kde Plasma 按鍵綁定
+# Manjaro Xfce 按鍵綁定
 
 
 ## 快捷鍵
