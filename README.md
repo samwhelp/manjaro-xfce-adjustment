@@ -16,17 +16,24 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Script](#script)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Script
 
-| Adjustment |
-| ---------- |
-| [Manjaro Xfce](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main) |
+| Script |
+| ------ |
+| [Manjaro Xfce Config](https://github.com/samwhelp/manjaro-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
+| [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+| Style Management |
+| ---------------- |
+| [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
 
 
 
@@ -41,3 +48,10 @@
 | [Xubuntu Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
 | [Debian Xfce Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
 | [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
